@@ -1,6 +1,6 @@
 # 🏗️ Project Cost Monitoring Dashboard
 
-This project showcases a **Power BI dashboard** created to monitor and compare budgeted vs. actual costs across multiple construction sites. It enables project leads to identify cost overruns, track project completion status, and reduce financial waste.
+This project showcases a **Power BI dashboard** created to monitor and compare Project Cost across multiple construction sites. It enables project leads to identify cost overruns, track project completion status, and reduce financial waste.
 
 ---
 
