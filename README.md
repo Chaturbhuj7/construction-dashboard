@@ -51,10 +51,10 @@ Here’s a preview of the dashboard in action:
 
 | File                   | Description                          |
 |------------------------|--------------------------------------|
-| `dashboard.pbix`       | Power BI dashboard file              |
-| `construction_data.xlsx` | Raw/cleaned data used in the dashboard |
-| `screenshot1.png`      | Dashboard image for README display   |
-| `README.md`            | Project overview (this file)         |
+| `https://github.com/Chaturbhuj7/construction-dashboard/blob/main/Project%20Cost%20Monitoring.pbix`       | Power BI dashboard file              |
+| `(https://github.com/Chaturbhuj7/construction-dashboard/blob/main/For%20Dashboard.xlsx)` | Raw/cleaned data used in the dashboard |
+| `https://github.com/Chaturbhuj7/construction-dashboard/blob/main/image.png`      | Dashboard image for README display   |
+| `(https://github.com/Chaturbhuj7/construction-dashboard/blob/main/README.md)`            | Project overview (this file)         |
 
 ---
 
