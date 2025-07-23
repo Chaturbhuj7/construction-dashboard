@@ -49,12 +49,13 @@ Here’s a preview of the dashboard in action:
 
 ## 📁 Project Files
 
-| File                   | Description                          |
-|------------------------|--------------------------------------|
-| `https://github.com/Chaturbhuj7/construction-dashboard/blob/main/Project%20Cost%20Monitoring.pbix`       | Power BI dashboard file              |
-| `(https://github.com/Chaturbhuj7/construction-dashboard/blob/main/For%20Dashboard.xlsx)` | Raw/cleaned data used in the dashboard |
-| `https://github.com/Chaturbhuj7/construction-dashboard/blob/main/image.png`      | Dashboard image for README display   |
-| `(https://github.com/Chaturbhuj7/construction-dashboard/blob/main/README.md)`            | Project overview (this file)         |
+| File | Description |
+|------|-------------|
+| [Project Cost Monitoring.pbix](https://github.com/Chaturbhuj7/construction-dashboard/blob/main/Project%20Cost%20Monitoring.pbix) | Power BI dashboard file |
+| [For Dashboard.xlsx](https://github.com/Chaturbhuj7/construction-dashboard/blob/main/For%20Dashboard.xlsx) | Raw/cleaned data used in the dashboard |
+| [image.png](https://github.com/Chaturbhuj7/construction-dashboard/blob/main/image.png) | Dashboard image for README display |
+| [README.md](https://github.com/Chaturbhuj7/construction-dashboard/blob/main/README.md) | Project overview (this file) |
+
 
 ---
 
